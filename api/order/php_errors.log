@@ -1,0 +1,43 @@
+[10-Jan-2021 22:34:00 Asia/Kolkata] PHP Notice:  Undefined variable: stmt in /home/fireonli/domains/skfs.in/public_html/thadi/api/order/order-create.php on line 43
+[10-Jan-2021 22:36:45 Asia/Kolkata] PHP Notice:  Undefined property: User::$name in /home/fireonli/domains/skfs.in/public_html/thadi/api/objects/user.php on line 30
+[10-Jan-2021 22:36:45 Asia/Kolkata] PHP Notice:  Undefined property: User::$email in /home/fireonli/domains/skfs.in/public_html/thadi/api/objects/user.php on line 31
+[10-Jan-2021 22:36:45 Asia/Kolkata] PHP Notice:  Undefined property: User::$mobile in /home/fireonli/domains/skfs.in/public_html/thadi/api/objects/user.php on line 32
+[10-Jan-2021 22:36:45 Asia/Kolkata] PHP Notice:  Undefined property: User::$password in /home/fireonli/domains/skfs.in/public_html/thadi/api/objects/user.php on line 33
+[10-Jan-2021 22:36:45 Asia/Kolkata] PHP Notice:  Undefined property: User::$created in /home/fireonli/domains/skfs.in/public_html/thadi/api/objects/user.php on line 34
+[10-Jan-2021 22:41:14 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined method User::createOrder() in /home/fireonli/domains/skfs.in/public_html/thadi/api/order/order-create.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/fireonli/domains/skfs.in/public_html/thadi/api/order/order-create.php on line 43
+[10-Jan-2021 22:52:47 Asia/Kolkata] PHP Notice:  Undefined variable: category in /home/fireonli/domains/skfs.in/public_html/thadi/api/order/order-list.php on line 30
+[10-Jan-2021 22:52:47 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function orderList() on null in /home/fireonli/domains/skfs.in/public_html/thadi/api/order/order-list.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/fireonli/domains/skfs.in/public_html/thadi/api/order/order-list.php on line 30
+[10-Jan-2021 22:54:34 Asia/Kolkata] PHP Notice:  Undefined variable: category in /home/fireonli/domains/skfs.in/public_html/thadi/api/order/order-list.php on line 30
+[10-Jan-2021 22:54:34 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function orderList() on null in /home/fireonli/domains/skfs.in/public_html/thadi/api/order/order-list.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/fireonli/domains/skfs.in/public_html/thadi/api/order/order-list.php on line 30
+[10-Jan-2021 23:34:42 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined method User::createOrder() in /home/fireonli/domains/skfs.in/public_html/thadi/api/order/order-create.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/fireonli/domains/skfs.in/public_html/thadi/api/order/order-create.php on line 43
+[10-Jan-2021 23:38:03 Asia/Kolkata] PHP Notice:  Undefined property: Order::$userid in /home/fireonli/domains/skfs.in/public_html/thadi/api/objects/order.php on line 33
+[10-Jan-2021 23:58:35 Asia/Kolkata] PHP Notice:  Undefined property: Order::$userid in /home/fireonli/domains/skfs.in/public_html/thadi/api/objects/order.php on line 33
+[11-Jan-2021 00:01:58 Asia/Kolkata] PHP Notice:  Undefined property: Order::$userid in /home/fireonli/domains/skfs.in/public_html/thadi/api/objects/order.php on line 33
+[11-Jan-2021 22:05:25 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined method User::userList() in /home/fireonli/domains/skfs.in/public_html/thadi/api/order/order-list.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/fireonli/domains/skfs.in/public_html/thadi/api/order/order-list.php on line 32
+[11-Jan-2021 22:06:06 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined method User::userList() in /home/fireonli/domains/skfs.in/public_html/thadi/api/order/order-list.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/fireonli/domains/skfs.in/public_html/thadi/api/order/order-list.php on line 32
+[11-Jan-2021 23:00:33 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/fireonli/domains/skfs.in/public_html/thadi/api/order/order-status-update.php on line 32
+[11-Jan-2021 23:02:08 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/fireonli/domains/skfs.in/public_html/thadi/api/order/order-status-update.php on line 32
+[11-Jan-2021 23:17:54 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/fireonli/domains/skfs.in/public_html/thadi/api/order/order-status-update.php on line 32
+[11-Jan-2021 23:39:37 Asia/Kolkata] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/fireonli/domains/skfs.in/public_html/thadi/api/objects/order.php on line 96
+[12-Jan-2021 00:10:02 Asia/Kolkata] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/fireonli/domains/skfs.in/public_html/thadi/api/objects/order.php on line 98
+[12-Jan-2021 00:11:08 Asia/Kolkata] PHP Notice:  Undefined property: Order::$orderId in /home/fireonli/domains/skfs.in/public_html/thadi/api/objects/order.php on line 91
+[12-Jan-2021 00:14:19 Asia/Kolkata] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/fireonli/domains/skfs.in/public_html/thadi/api/objects/order.php on line 98
+[12-Jan-2021 00:21:38 Asia/Kolkata] PHP Notice:  Undefined property: Order::$orderId in /home/fireonli/domains/skfs.in/public_html/thadi/api/objects/order.php on line 91

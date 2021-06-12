@@ -1,0 +1,27 @@
+[17-Jan-2021 23:46:24 Asia/Kolkata] PHP Warning:  include(./../../config.php): failed to open stream: No such file or directory in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/order/api/api/add-api.php on line 3
+[17-Jan-2021 23:46:24 Asia/Kolkata] PHP Warning:  include(./../../config.php): failed to open stream: No such file or directory in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/order/api/api/add-api.php on line 3
+[17-Jan-2021 23:46:24 Asia/Kolkata] PHP Warning:  include(): Failed opening './../../config.php' for inclusion (include_path='.:/usr/local/php73/lib/php') in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/order/api/api/add-api.php on line 3
+[17-Jan-2021 23:46:24 Asia/Kolkata] PHP Notice:  Undefined index: createdAt in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/order/api/api/add-api.php on line 9
+[17-Jan-2021 23:46:24 Asia/Kolkata] PHP Notice:  Undefined variable: con in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/order/api/api/add-api.php on line 11
+[17-Jan-2021 23:46:24 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/order/api/api/add-api.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/order/api/api/add-api.php on line 11
+[17-Jan-2021 23:47:36 Asia/Kolkata] PHP Warning:  include(./../../config.php): failed to open stream: No such file or directory in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/order/api/api/add-api.php on line 3
+[17-Jan-2021 23:47:36 Asia/Kolkata] PHP Warning:  include(./../../config.php): failed to open stream: No such file or directory in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/order/api/api/add-api.php on line 3
+[17-Jan-2021 23:47:36 Asia/Kolkata] PHP Warning:  include(): Failed opening './../../config.php' for inclusion (include_path='.:/usr/local/php73/lib/php') in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/order/api/api/add-api.php on line 3
+[17-Jan-2021 23:47:36 Asia/Kolkata] PHP Notice:  Undefined index: createdAt in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/order/api/api/add-api.php on line 9
+[17-Jan-2021 23:47:36 Asia/Kolkata] PHP Notice:  Undefined variable: con in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/order/api/api/add-api.php on line 11
+[17-Jan-2021 23:47:36 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/order/api/api/add-api.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/order/api/api/add-api.php on line 11
+[17-Jan-2021 23:48:12 Asia/Kolkata] PHP Warning:  include(./../../config.php): failed to open stream: No such file or directory in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/order/api/api/add-api.php on line 3
+[17-Jan-2021 23:48:12 Asia/Kolkata] PHP Warning:  include(./../../config.php): failed to open stream: No such file or directory in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/order/api/api/add-api.php on line 3
+[17-Jan-2021 23:48:12 Asia/Kolkata] PHP Warning:  include(): Failed opening './../../config.php' for inclusion (include_path='.:/usr/local/php73/lib/php') in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/order/api/api/add-api.php on line 3
+[17-Jan-2021 23:48:12 Asia/Kolkata] PHP Notice:  Undefined index: createdAt in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/order/api/api/add-api.php on line 9
+[17-Jan-2021 23:48:12 Asia/Kolkata] PHP Notice:  Undefined variable: con in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/order/api/api/add-api.php on line 11
+[17-Jan-2021 23:48:12 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/order/api/api/add-api.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/order/api/api/add-api.php on line 11

@@ -1,0 +1,195 @@
+[17-Jan-2021 23:50:13 Asia/Kolkata] PHP Notice:  Undefined index: createdAt in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/add-api.php on line 9
+[17-Jan-2021 23:50:13 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/add-api.php on line 13
+[17-Jan-2021 23:50:13 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/add-api.php on line 15
+[18-Jan-2021 00:04:48 Asia/Kolkata] PHP Notice:  Undefined index: categoryImage in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/add-api.php on line 6
+[18-Jan-2021 00:04:48 Asia/Kolkata] PHP Notice:  Undefined index: singleItemPrice in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/add-api.php on line 7
+[18-Jan-2021 00:04:48 Asia/Kolkata] PHP Notice:  Undefined index: createdAt in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/add-api.php on line 9
+[18-Jan-2021 00:04:48 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/add-api.php on line 13
+[18-Jan-2021 00:04:48 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/add-api.php on line 15
+[18-Jan-2021 00:10:53 Asia/Kolkata] PHP Notice:  Undefined index: categoryImage in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/add-api.php on line 6
+[18-Jan-2021 00:10:53 Asia/Kolkata] PHP Notice:  Undefined index: createdAt in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/add-api.php on line 9
+[18-Jan-2021 00:10:53 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/add-api.php on line 13
+[18-Jan-2021 00:10:53 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/add-api.php on line 15
+[18-Jan-2021 00:12:26 Asia/Kolkata] PHP Notice:  Undefined index: categoryImage in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/add-api.php on line 6
+[18-Jan-2021 00:12:26 Asia/Kolkata] PHP Notice:  Undefined index: createdAt in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/add-api.php on line 9
+[18-Jan-2021 00:12:26 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/add-api.php on line 13
+[18-Jan-2021 00:12:26 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/add-api.php on line 15
+[18-Jan-2021 00:14:54 Asia/Kolkata] PHP Notice:  Undefined index: categoryImage in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/add-api.php on line 6
+[18-Jan-2021 00:14:54 Asia/Kolkata] PHP Notice:  Undefined index: createdAt in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/add-api.php on line 9
+[18-Jan-2021 00:14:54 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/add-api.php on line 13
+[18-Jan-2021 00:14:54 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/add-api.php on line 15
+[18-Jan-2021 00:23:00 Asia/Kolkata] PHP Notice:  Undefined index: createdAt in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/add-api.php on line 9
+[18-Jan-2021 00:23:00 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/add-api.php on line 13
+[18-Jan-2021 00:23:00 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/add-api.php on line 15
+[18-Jan-2021 00:27:08 Asia/Kolkata] PHP Notice:  Undefined index: categoryImage in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/add-api.php on line 6
+[18-Jan-2021 00:27:08 Asia/Kolkata] PHP Notice:  Undefined index: createdAt in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/add-api.php on line 9
+[18-Jan-2021 00:27:08 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/add-api.php on line 13
+[18-Jan-2021 00:27:08 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/add-api.php on line 15
+[18-Jan-2021 00:57:19 Asia/Kolkata] PHP Notice:  Undefined index: categoryId in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 5
+[18-Jan-2021 00:57:19 Asia/Kolkata] PHP Notice:  Undefined index: categoryName in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 6
+[18-Jan-2021 00:57:19 Asia/Kolkata] PHP Notice:  Undefined index: categoryImage in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 7
+[18-Jan-2021 00:57:19 Asia/Kolkata] PHP Notice:  Undefined index: singleItemPrice in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 8
+[18-Jan-2021 00:57:19 Asia/Kolkata] PHP Notice:  Undefined index: description in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 9
+[18-Jan-2021 00:57:19 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 14
+[18-Jan-2021 00:57:19 Asia/Kolkata] PHP Notice:  Undefined variable: insert in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 15
+[18-Jan-2021 00:57:19 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 20
+[18-Jan-2021 01:00:20 Asia/Kolkata] PHP Notice:  Undefined index: categoryId in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 5
+[18-Jan-2021 01:00:20 Asia/Kolkata] PHP Notice:  Undefined index: categoryName in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 6
+[18-Jan-2021 01:00:20 Asia/Kolkata] PHP Notice:  Undefined index: categoryImage in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 7
+[18-Jan-2021 01:00:20 Asia/Kolkata] PHP Notice:  Undefined index: singleItemPrice in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 8
+[18-Jan-2021 01:00:20 Asia/Kolkata] PHP Notice:  Undefined index: description in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 9
+[18-Jan-2021 01:00:20 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 14
+[18-Jan-2021 01:00:20 Asia/Kolkata] PHP Notice:  Undefined variable: insert in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 15
+[18-Jan-2021 01:00:20 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 20
+[18-Jan-2021 01:00:29 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 14
+[18-Jan-2021 01:00:29 Asia/Kolkata] PHP Notice:  Undefined variable: insert in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 15
+[18-Jan-2021 01:00:29 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 20
+[18-Jan-2021 01:01:48 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 14
+[18-Jan-2021 01:01:48 Asia/Kolkata] PHP Notice:  Undefined variable: insert in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 15
+[18-Jan-2021 01:01:48 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 20
+[18-Jan-2021 16:38:39 Asia/Kolkata] PHP Notice:  Undefined index: categoryImage in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/add-api.php on line 6
+[18-Jan-2021 16:38:39 Asia/Kolkata] PHP Notice:  Undefined index: createdAt in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/add-api.php on line 9
+[18-Jan-2021 16:38:39 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/add-api.php on line 13
+[18-Jan-2021 16:38:39 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/add-api.php on line 15
+[18-Jan-2021 16:39:56 Asia/Kolkata] PHP Notice:  Undefined index: categoryId in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 5
+[18-Jan-2021 16:39:56 Asia/Kolkata] PHP Notice:  Undefined index: categoryImage in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 7
+[18-Jan-2021 16:39:56 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 14
+[18-Jan-2021 16:39:56 Asia/Kolkata] PHP Notice:  Undefined variable: insert in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 15
+[18-Jan-2021 16:39:56 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 20
+[18-Jan-2021 16:39:58 Asia/Kolkata] PHP Notice:  Undefined index: categoryId in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 5
+[18-Jan-2021 16:39:58 Asia/Kolkata] PHP Notice:  Undefined index: categoryImage in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 7
+[18-Jan-2021 16:39:58 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 14
+[18-Jan-2021 16:39:58 Asia/Kolkata] PHP Notice:  Undefined variable: insert in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 15
+[18-Jan-2021 16:39:58 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 20
+[18-Jan-2021 21:50:25 Asia/Kolkata] PHP Notice:  Undefined index: categoryImage in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/add-api.php on line 6
+[18-Jan-2021 21:50:25 Asia/Kolkata] PHP Notice:  Undefined index: createdAt in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/add-api.php on line 9
+[18-Jan-2021 21:50:25 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/add-api.php on line 13
+[18-Jan-2021 21:50:25 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/add-api.php on line 19
+[18-Jan-2021 21:55:07 Asia/Kolkata] PHP Notice:  Undefined index: categoryImage in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/add-api.php on line 6
+[18-Jan-2021 21:55:07 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/add-api.php on line 12
+[18-Jan-2021 21:55:07 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/add-api.php on line 14
+[18-Jan-2021 22:09:38 Asia/Kolkata] PHP Notice:  Undefined index: categoryId in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 5
+[18-Jan-2021 22:09:38 Asia/Kolkata] PHP Notice:  Undefined index: categoryImage in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 7
+[18-Jan-2021 22:09:38 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 14
+[18-Jan-2021 22:09:38 Asia/Kolkata] PHP Notice:  Undefined variable: insert in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 15
+[18-Jan-2021 22:09:38 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 20
+[18-Jan-2021 22:11:03 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 14
+[18-Jan-2021 22:11:03 Asia/Kolkata] PHP Notice:  Undefined variable: insert in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 15
+[18-Jan-2021 22:11:03 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 20
+[18-Jan-2021 22:13:50 Asia/Kolkata] PHP Notice:  Undefined index: categoryImage in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/add-api.php on line 6
+[18-Jan-2021 22:13:50 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/add-api.php on line 12
+[18-Jan-2021 22:13:50 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/add-api.php on line 14
+[18-Jan-2021 22:20:18 Asia/Kolkata] PHP Notice:  Undefined index: image in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/add-api.php on line 9
+[18-Jan-2021 22:20:18 Asia/Kolkata] PHP Notice:  Undefined index: image in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/add-api.php on line 10
+[18-Jan-2021 22:20:18 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/add-api.php on line 30
+[18-Jan-2021 22:20:18 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/add-api.php on line 32
+[18-Jan-2021 22:23:05 Asia/Kolkata] PHP Notice:  Undefined index: image in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/add-api.php on line 9
+[18-Jan-2021 22:23:05 Asia/Kolkata] PHP Notice:  Undefined index: image in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/add-api.php on line 10
+[18-Jan-2021 22:23:05 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/add-api.php on line 30
+[18-Jan-2021 22:23:05 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/add-api.php on line 32
+[18-Jan-2021 22:25:55 Asia/Kolkata] PHP Notice:  Undefined index: image in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/add-api.php on line 9
+[18-Jan-2021 22:25:55 Asia/Kolkata] PHP Notice:  Undefined index: image in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/add-api.php on line 10
+[18-Jan-2021 22:25:55 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/add-api.php on line 30
+[18-Jan-2021 22:25:55 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/add-api.php on line 32
+[18-Jan-2021 22:29:24 Asia/Kolkata] PHP Notice:  Undefined index: image in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/add-api.php on line 9
+[18-Jan-2021 22:29:24 Asia/Kolkata] PHP Notice:  Undefined index: image in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/add-api.php on line 10
+[18-Jan-2021 22:29:24 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/add-api.php on line 30
+[18-Jan-2021 22:29:24 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/add-api.php on line 32
+[18-Jan-2021 22:33:43 Asia/Kolkata] PHP Notice:  Undefined index: image in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/add-api.php on line 9
+[18-Jan-2021 22:33:43 Asia/Kolkata] PHP Notice:  Undefined index: image in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/add-api.php on line 10
+[18-Jan-2021 22:33:43 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/add-api.php on line 30
+[18-Jan-2021 22:33:43 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/add-api.php on line 32
+[18-Jan-2021 22:35:45 Asia/Kolkata] PHP Notice:  Undefined index: image in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/add-api.php on line 9
+[18-Jan-2021 22:35:45 Asia/Kolkata] PHP Notice:  Undefined index: image in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/add-api.php on line 10
+[18-Jan-2021 22:35:45 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/add-api.php on line 30
+[18-Jan-2021 22:35:45 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/add-api.php on line 32
+[18-Jan-2021 22:43:28 Asia/Kolkata] PHP Notice:  Undefined index: productImage in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/add-api.php on line 9
+[18-Jan-2021 22:43:28 Asia/Kolkata] PHP Notice:  Undefined index: productImage in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/add-api.php on line 10
+[18-Jan-2021 22:43:28 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/add-api.php on line 30
+[18-Jan-2021 22:43:28 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/add-api.php on line 32
+[18-Jan-2021 22:49:54 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/add-api.php on line 30
+[18-Jan-2021 22:49:54 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/add-api.php on line 32
+[18-Jan-2021 22:55:04 Asia/Kolkata] PHP Notice:  Undefined index: categoryId in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 5
+[18-Jan-2021 22:55:04 Asia/Kolkata] PHP Notice:  Undefined index: productImage in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 11
+[18-Jan-2021 22:55:04 Asia/Kolkata] PHP Notice:  Undefined index: productImage in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 12
+[18-Jan-2021 22:55:04 Asia/Kolkata] PHP Notice:  Undefined index: categoryImage in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 27
+[18-Jan-2021 22:55:04 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 33
+[18-Jan-2021 22:55:04 Asia/Kolkata] PHP Notice:  Undefined variable: insert in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 34
+[18-Jan-2021 22:55:04 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 39
+[18-Jan-2021 23:04:52 Asia/Kolkata] PHP Notice:  Undefined index: categoryId in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 5
+[18-Jan-2021 23:04:52 Asia/Kolkata] PHP Notice:  Undefined index: categoryImage in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 27
+[18-Jan-2021 23:04:52 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 33
+[18-Jan-2021 23:04:52 Asia/Kolkata] PHP Notice:  Undefined variable: insert in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 34
+[18-Jan-2021 23:04:52 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 39
+[18-Jan-2021 23:05:35 Asia/Kolkata] PHP Notice:  Undefined index: categoryId in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 5
+[18-Jan-2021 23:05:35 Asia/Kolkata] PHP Notice:  Undefined index: categoryImage in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 27
+[18-Jan-2021 23:05:35 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 33
+[18-Jan-2021 23:05:35 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 35
+[18-Jan-2021 23:06:19 Asia/Kolkata] PHP Notice:  Undefined index: categoryId in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 5
+[18-Jan-2021 23:06:19 Asia/Kolkata] PHP Notice:  Undefined index: categoryImage in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 27
+[18-Jan-2021 23:06:19 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 33
+[18-Jan-2021 23:06:19 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 35
+[18-Jan-2021 23:13:29 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/delete-api.php on line 11
+[18-Jan-2021 23:13:34 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/delete-api.php on line 11
+[18-Jan-2021 23:13:44 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/delete-api.php on line 11
+[18-Jan-2021 23:24:06 Asia/Kolkata] PHP Notice:  Undefined index: categoryId in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 5
+[18-Jan-2021 23:24:06 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 33
+[18-Jan-2021 23:24:06 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 35
+[18-Jan-2021 23:24:11 Asia/Kolkata] PHP Notice:  Undefined index: categoryId in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 5
+[18-Jan-2021 23:24:11 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 33
+[18-Jan-2021 23:24:11 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 35
+[18-Jan-2021 23:24:15 Asia/Kolkata] PHP Notice:  Undefined index: categoryId in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 5
+[18-Jan-2021 23:24:15 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 33
+[18-Jan-2021 23:24:15 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 35
+[18-Jan-2021 23:25:59 Asia/Kolkata] PHP Notice:  Undefined index: categoryId in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 5
+[18-Jan-2021 23:25:59 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 33
+[18-Jan-2021 23:25:59 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 35
+[18-Jan-2021 23:26:03 Asia/Kolkata] PHP Notice:  Undefined index: categoryId in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 5
+[18-Jan-2021 23:26:03 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 33
+[18-Jan-2021 23:26:03 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 35
+[18-Jan-2021 23:26:05 Asia/Kolkata] PHP Notice:  Undefined index: categoryId in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 5
+[18-Jan-2021 23:26:05 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 33
+[18-Jan-2021 23:26:05 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 35
+[18-Jan-2021 23:26:09 Asia/Kolkata] PHP Notice:  Undefined index: categoryId in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 5
+[18-Jan-2021 23:26:09 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 33
+[18-Jan-2021 23:26:09 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 35
+[18-Jan-2021 23:28:37 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 39
+[18-Jan-2021 23:28:37 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 41
+[18-Jan-2021 23:28:41 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 39
+[18-Jan-2021 23:28:41 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 41
+[18-Jan-2021 23:30:35 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 39
+[18-Jan-2021 23:30:35 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 41
+[18-Jan-2021 23:31:11 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 39
+[18-Jan-2021 23:31:11 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 41
+[18-Jan-2021 23:34:42 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 39
+[18-Jan-2021 23:34:42 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 41
+[18-Jan-2021 23:34:51 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 39
+[18-Jan-2021 23:34:51 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 41
+[18-Jan-2021 23:35:16 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 39
+[18-Jan-2021 23:35:16 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 41
+[18-Jan-2021 23:35:22 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 39
+[18-Jan-2021 23:35:22 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 41
+[18-Jan-2021 23:35:34 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/add-api.php on line 30
+[18-Jan-2021 23:35:34 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/add-api.php on line 32
+[18-Jan-2021 23:37:37 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 39
+[18-Jan-2021 23:37:37 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 41
+[18-Jan-2021 23:37:39 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/delete-api.php on line 11
+[18-Jan-2021 23:37:43 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/delete-api.php on line 11
+[18-Jan-2021 23:37:48 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/delete-api.php on line 11
+[18-Jan-2021 23:38:33 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 39
+[18-Jan-2021 23:38:33 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 41
+[18-Jan-2021 23:38:34 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/delete-api.php on line 11
+[18-Jan-2021 23:38:40 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/delete-api.php on line 11
+[18-Jan-2021 23:38:44 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/delete-api.php on line 11
+[18-Jan-2021 23:39:29 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 39
+[18-Jan-2021 23:39:29 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 41
+[18-Jan-2021 23:39:41 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 39
+[18-Jan-2021 23:39:41 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 41
+[18-Jan-2021 23:39:46 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 39
+[18-Jan-2021 23:39:46 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 41
+[18-Jan-2021 23:39:50 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 39
+[18-Jan-2021 23:39:50 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 41
+[18-Jan-2021 23:40:01 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 39
+[18-Jan-2021 23:40:01 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 41
+[18-Jan-2021 23:40:01 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 39
+[18-Jan-2021 23:40:01 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/admin_thadi/category/api/edit-api.php on line 41

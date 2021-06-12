@@ -1,0 +1,75 @@
+[09-Jan-2021 22:35:47 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/fireonli/domains/skfs.in/public_html/thadi/api/objects/user.php:37
+Stack trace:
+#0 /home/fireonli/domains/skfs.in/public_html/thadi/api/user/register.php(28): User->create()
+#1 {main}
+  thrown in /home/fireonli/domains/skfs.in/public_html/thadi/api/objects/user.php on line 37
+[09-Jan-2021 22:44:28 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '<' in /home/fireonli/domains/skfs.in/public_html/thadi/api/user/register.php on line 14
+[10-Jan-2021 10:38:45 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined method User::user_auth_token_update() in /home/fireonli/domains/skfs.in/public_html/thadi/api/user/login.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/fireonli/domains/skfs.in/public_html/thadi/api/user/login.php on line 35
+[10-Jan-2021 10:39:06 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined method User::user_auth_token_update() in /home/fireonli/domains/skfs.in/public_html/thadi/api/user/login.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/fireonli/domains/skfs.in/public_html/thadi/api/user/login.php on line 35
+[10-Jan-2021 11:04:45 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/fireonli/domains/skfs.in/public_html/thadi/api/user/login.php on line 62
+[10-Jan-2021 11:07:01 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/fireonli/domains/skfs.in/public_html/thadi/api/user/login.php on line 62
+[10-Jan-2021 11:07:11 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/fireonli/domains/skfs.in/public_html/thadi/api/user/login.php on line 62
+[10-Jan-2021 11:07:14 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/fireonli/domains/skfs.in/public_html/thadi/api/user/login.php on line 62
+[10-Jan-2021 11:10:14 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/fireonli/domains/skfs.in/public_html/thadi/api/user/login.php on line 63
+[10-Jan-2021 11:11:18 Asia/Kolkata] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/fireonli/domains/skfs.in/public_html/thadi/api/objects/user.php on line 139
+[10-Jan-2021 11:11:18 Asia/Kolkata] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/fireonli/domains/skfs.in/public_html/thadi/api/objects/user.php on line 139
+[10-Jan-2021 11:11:43 Asia/Kolkata] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/fireonli/domains/skfs.in/public_html/thadi/api/objects/user.php on line 139
+[10-Jan-2021 11:11:43 Asia/Kolkata] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/fireonli/domains/skfs.in/public_html/thadi/api/objects/user.php on line 139
+[10-Jan-2021 11:14:48 Asia/Kolkata] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/fireonli/domains/skfs.in/public_html/thadi/api/objects/user.php on line 139
+[10-Jan-2021 11:14:48 Asia/Kolkata] PHP Notice:  Undefined variable: num in /home/fireonli/domains/skfs.in/public_html/thadi/api/user/login.php on line 42
+[10-Jan-2021 11:18:21 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/fireonli/domains/skfs.in/public_html/thadi/api/user/login.php on line 34
+[10-Jan-2021 11:19:52 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/fireonli/domains/skfs.in/public_html/thadi/api/user/login.php on line 42
+[10-Jan-2021 11:21:00 Asia/Kolkata] PHP Notice:  Undefined variable: num in /home/fireonli/domains/skfs.in/public_html/thadi/api/user/login.php on line 42
+[12-Jan-2021 21:19:34 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/api/user/register.php on line 24
+[12-Jan-2021 21:19:34 Asia/Kolkata] PHP Notice:  Undefined property: User::$password in /home/fireonli/domains/skfs.in/public_html/thadi/api/objects/user.php on line 33
+[12-Jan-2021 21:26:07 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/api/user/register.php on line 24
+[12-Jan-2021 21:26:07 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::user_login() in /home/fireonli/domains/skfs.in/public_html/thadi/api/user/register.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/fireonli/domains/skfs.in/public_html/thadi/api/user/register.php on line 27
+[12-Jan-2021 21:27:08 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/api/user/register.php on line 24
+[12-Jan-2021 21:27:08 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::user_login() in /home/fireonli/domains/skfs.in/public_html/thadi/api/user/register.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/fireonli/domains/skfs.in/public_html/thadi/api/user/register.php on line 27
+[12-Jan-2021 21:29:10 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/api/user/register.php on line 24
+[12-Jan-2021 21:29:10 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::user_login() in /home/fireonli/domains/skfs.in/public_html/thadi/api/user/register.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/fireonli/domains/skfs.in/public_html/thadi/api/user/register.php on line 27
+[12-Jan-2021 21:29:45 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/api/user/register.php on line 24
+[12-Jan-2021 21:29:45 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::user_login() in /home/fireonli/domains/skfs.in/public_html/thadi/api/user/register.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/fireonli/domains/skfs.in/public_html/thadi/api/user/register.php on line 27
+[12-Jan-2021 21:36:01 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/api/user/register.php on line 24
+[12-Jan-2021 21:36:01 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::user_login() in /home/fireonli/domains/skfs.in/public_html/thadi/api/user/register.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/fireonli/domains/skfs.in/public_html/thadi/api/user/register.php on line 27
+[12-Jan-2021 21:36:55 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/api/user/register.php on line 24
+[12-Jan-2021 21:37:10 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/api/user/register.php on line 24
+[12-Jan-2021 21:37:13 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/api/user/register.php on line 24
+[12-Jan-2021 21:38:47 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/api/user/register.php on line 24
+[12-Jan-2021 21:39:19 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/api/user/register.php on line 24
+[12-Jan-2021 21:39:27 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/api/user/register.php on line 24
+[12-Jan-2021 21:39:32 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/api/user/register.php on line 24
+[12-Jan-2021 21:40:11 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/api/user/register.php on line 24
+[12-Jan-2021 21:40:20 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/api/user/register.php on line 24
+[12-Jan-2021 21:40:24 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/api/user/register.php on line 24
+[12-Jan-2021 21:40:29 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/api/user/register.php on line 24
+[12-Jan-2021 21:41:21 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/api/user/register.php on line 24
+[12-Jan-2021 21:42:51 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/api/user/register.php on line 24
+[12-Jan-2021 21:43:14 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/api/user/register.php on line 24
+[12-Jan-2021 21:43:25 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/api/user/register.php on line 24
+[12-Jan-2021 21:44:37 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/api/user/register.php on line 24
+[12-Jan-2021 21:44:50 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/api/user/register.php on line 24
+[12-Jan-2021 21:45:34 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/api/user/register.php on line 24
+[12-Jan-2021 21:45:38 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/api/user/register.php on line 24
+[12-Jan-2021 21:45:57 Asia/Kolkata] PHP Warning:  Creating default object from empty value in /home/fireonli/domains/skfs.in/public_html/thadi/api/user/register.php on line 24
